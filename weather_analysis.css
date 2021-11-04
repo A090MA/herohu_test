@@ -1,0 +1,60 @@
+
+
+body {color: rgb(103, 196, 123);
+    font-family: Georgia, serif;
+    font-weight: 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center; 
+
+    text-shadow: #1b1be7e1;
+    
+    font-weight: normal;
+
+    }
+
+
+
+
+
+#main-panel-1 { border: 7px double rgb(59, 143, 139);}
+
+.col-md-6 img { float: left; 
+  margin: 20px;}
+
+
+
+#main-panel-2 {  border: 7px double rgb(59, 143, 139);
+                margin-left: 20px;}
+
+
+
+
+#image-4 { margin: 10px;
+          border: rgb(103, 196, 123) 3px solid";
+         }
+
+
+
+
+
+
+
+#comparision-image { margin: 20px;
+                      height: 200px;
+                      width: 300px;
+                     }
+
+
+
+
+.img-vis { 
+  margin: 20px;
+  padding-left: 30px;
+  
+  width: 70%;}
+
+.clear{
+  clear: left;
+}
+
